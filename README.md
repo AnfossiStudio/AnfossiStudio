@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Anfossi</h1>
-<h3 align="center">A passionate full stack and flutter developer from Morroco</h3>
+<h1 align="left">Hi 👋, I'm Mohamed Anfossi</h1>
+<h3 align="left">A passionate full stack and flutter developer from Morroco</h3>
 
 - 🌱 I’m currently learning **Advanced Flutter**
 
